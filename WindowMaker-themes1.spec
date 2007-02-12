@@ -1,5 +1,5 @@
 Summary:	Pack of themes for WindowMaker
-Summary(pl):	Zestaw motywów dla WindowMakera
+Summary(pl.UTF-8):   Zestaw motywÃ³w dla WindowMakera
 Name:		WindowMaker-themes1
 Version:	1.0
 Release:	3
@@ -21,8 +21,8 @@ Leaves, Below The Waterline, Binary, Bionic Instinct, Blue Day, Blue
 Flower Dark, Blue Mist, City By Night, Construction, Deoba, Diesel,
 Digital Flight, Fire Flower, Foggy Dawn.
 
-%description -l pl
-Zestaw 20 motywów dla WindowMakera wykonanych przez jensena
+%description -l pl.UTF-8
+Zestaw 20 motywÃ³w dla WindowMakera wykonanych przez jensena
 <jensen@optushome.com.au>: Abstract Blues, Abyss of Red, A Feeling of
 Rain - Sunset, A Feeling of Rain, Aqua Flower, Aqua Strawberry, Autumn
 Leaves, Below The Waterline, Binary, Bionic Instinct, Blue Day, Blue
